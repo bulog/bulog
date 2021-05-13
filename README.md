@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Ady [@bulog](https://bulog.cn)
+- 👋 Hi, I’m Ady
 - 👀 I’m interested in IoT, JavaScript, css, html, C#, ASP, Sql Server, MySql, Postgresql
 - 🌱 I’m currently learning IoT, javascript
 - 💞️ I’m looking to collaborate on ecommerce shop, IoT hardware and platform
-- 📫 Contact with me at ady@bulog.cn
